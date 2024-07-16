@@ -1,4 +1,4 @@
-[![Leap](.git/leap_icon.png)](https://www.linkedin.com/company/leaparcade)
+[![Leap](.images/leap_icon.png)](https://www.linkedin.com/company/leaparcade)
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=4852B1&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Tharuka+Balasooriya;Data+Science;Algorithm+Architect;Software+Developer">
@@ -9,7 +9,6 @@
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="tharuka-bal" /></p>
 
 - 🌱 I’m currently exploring cutting-edge AI technologies and their applications.
-- 📫 How to reach me: **[balasooriya.tharuka@gmail.com]
 - ⚡ Fun fact: I believe that technology and innovation are the keys to solving complex challenges.
 
 
