@@ -15,9 +15,10 @@
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharuka-balasooriya/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/theFoxDecoder)
 [![Academia](https://img.shields.io/badge/Academia-41454A?logo=academia&logoColor=fff&style=for-the-badge)](https://independent.academia.edu/TharukaBalasooriya)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:balasooriya.tharuka@gmail.com)
+[![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-0CB?logo=researchgate&logoColor=fff&style=for-the-badge)](https://www.researchgate.net/profile/Tharuka-Balasooriya)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/theFoxDecoder)
+
 <br>
 
 ## Languages
