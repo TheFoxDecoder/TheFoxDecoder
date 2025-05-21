@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=4852B1&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Tharuka+Balasooriya;Data+Science;Algorithm+Architect;Software+Developer">
+<img src="https://readme-typing-svg.herokuapp.com?color=4852B1&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Tharuka+Balasooriya;Senior+Data+Scientist;Algorithm+Architect;Embedded+System+Engineer">
 
 </p>
 <h3 align="center">Accomplished Founder with a strong background in AI Implantation and Data Science.</h3>
