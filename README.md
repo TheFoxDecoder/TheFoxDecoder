@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=4852B1&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Tharuka+Balasooriya;Data+Scientist;Algorithm+Architect;Embedded+System+Engineer">
+<img src="https://readme-typing-svg.herokuapp.com?color=4852B1&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Tharuka+Balasooriya;Data+Science;Algorithm+Architect;Software+Developer">
 
 </p>
 <h3 align="center">Accomplished Founder with a strong background in AI Implantation and Data Science.</h3>
@@ -204,10 +204,3 @@ Exploring the Bitcoin cryptocurrency market to better understand the growth and 
 <ul>
   Rehabilitation Researcher/Counselor at SILOAM Rehabilitation Center (2022-2023).<ul> <li>I conducted daily programs, developed software solutions for inmate monitoring and management,</li> <li>contributed to improving the overall rehabilitation outcomes for inmates.</li></ul>
 </ul>
-
-## Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharuka-balasooriya/)
-[![Academia](https://img.shields.io/badge/Academia-41454A?logo=academia&logoColor=fff&style=for-the-badge)](https://independent.academia.edu/TharukaBalasooriya)
-[![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-0CB?logo=researchgate&logoColor=fff&style=for-the-badge)](https://www.researchgate.net/profile/Tharuka-Balasooriya)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/theFoxDecoder)
