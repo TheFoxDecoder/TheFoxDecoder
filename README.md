@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/company/leaparcade">
-    <img src=".images/leap_icon.png" alt="Leap" width="400" height="400">
+    <img src="https://res.cloudinary.com/djpaycwea/image/upload/v1763625206/leap_icon_lrowip.png" alt="Leap" width="400" height="400">
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 </p>
 <h3 align="center">Accomplished Founder with a strong background in AI Implantation and Data Science.</h3>
 
-<p><img align="right" src=".images/animation_500_kxa883sd.gif" alt="Dev" /></p>
+<p><img align="right" src="https://res.cloudinary.com/djpaycwea/image/upload/v1763625225/animation_500_kxa883sd_q5hbsn.gif" alt="Dev" /></p>
 
 - 🌱 I’m currently exploring cutting-edge AI technologies and their applications.
 - ⚡ Fun fact: I believe that technology and innovation are the keys to solving complex challenges.
