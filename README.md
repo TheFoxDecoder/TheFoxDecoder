@@ -89,33 +89,3 @@ Pioneered the implementation of Apache Airflow and Kubeflow, orchestrating 50+ m
 <ul>
   <li><a href="https://www.academia.edu/122078346/Ozone_O_3_A_Dynamic_Neuromorphic_Intelligence_Architecture_for_Adaptive_Intelligences?source=swp_share" target="_blank">Ozone(O3): A Dynamic Neuromorphic Intelligence Architecture for Adaptive Intelligences</a></li>
 </ul>
-
-## Projects
-
----
-
-### [Milk Quality Prediction](https://github.com/TheFoxDecoder/Milk-Quality-Prediction.git)  
-**Milk Quality Prediction.git**  
-This project builds a machine learning pipeline to predict the quality of milk (low, medium, or high) based on a variety of physicochemical properties such as pH, temperature, fat content, and more. The goal is to help dairy producers ensure consistent product quality and reduce contamination risks through data-driven insights.  
-**Tools Used:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), Jupyter Notebook
-
----
-
-### [COVID19-Cluster](https://github.com/TheFoxDecoder/COVID19-Cluster.git)  
-**COVID19-Cluster**  
-In this project, I attempted to cluster published literature on COVID-19 and reduce the dimensionality of the dataset for visualization purposes. This allowed for an interactive scatter plot of papers related to COVID-19, grouping materials with similar themes together.  
-**Tools Used:** Python, Pandas
-
----
-
-### [LLM-fine_tune](https://github.com/TheFoxDecoder/LLMA2_fine-tune.git)  
-**MediAssist: Fine-tune LLaMA-2**  
-This repository contains my submission for the Machine Learning Engineer Job Assessment. The task involves building a pipeline to fine-tune a large language model (LLaMA-2-7B) using synthetically generated healthcare dialogue data. It demonstrates proficiency in data handling, prompt engineering, transformer-based model training, and evaluation.  
-**Tools Used:** Python, PyTorch, HuggingFace Transformers, PEFT
-
----
-
-### [WikiMap](https://github.com/TheFoxDecoder/Exploring-Cryptocurrency-Market-.git)  
-**Exploring Cryptocurrency Market**  
-Exploring the Bitcoin cryptocurrency market to better understand the growth and impact of Bitcoin and other cryptocurrencies. This project explores the market capitalization of different cryptocurrencies.  
-**Tools Used:** Python, Pandas, JSONL
